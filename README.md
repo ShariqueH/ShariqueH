@@ -13,10 +13,10 @@
 ## About Me
 
 - 🎓 Master's student in Data Science based in Berlin
-- 📊 Interested in data analytics, machine learning, and real-world business problem solving
-- 🛠 Working with Python, SQL, Excel, Tableau, Power BI, and data pipelines
+- 📊 Focused on data engineering, machine learning, and real-world problem solving
+- 🛠 Working with Python, SQL, Excel, Tableau, Power BI, AWS and data pipelines
 - 🚗 Strong interest in automotive data, product thinking, and scalable data applications
-- 🌱 Currently sharpening my skills through hands-on projects in analytics, ML, and engineering
+- 🌱 Currently sharpening my skills through hands-on projects in ML, and engineering
 - ⚡ Also experienced in IT and cybersecurity foundations
 
 ---
@@ -52,6 +52,11 @@ Data engineering project for processing EV charging data using distributed workf
 - Power BI
 - Pandas
 - Matplotlib
+
+**Data Engineering & Cloud**
+- AWS (fundamentals: S3, EC2)
+- Data Lake concepts
+- Apache Spark (basics)
 
 **Machine Learning**
 - Scikit-learn
