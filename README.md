@@ -4,7 +4,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/sharique-haroon/">LinkedIn</a> •
   <a href="https://public.tableau.com/app/profile/sharique.haroon/vizzes">Tableau</a> •
-  <a href="https://tryhackme.com/p/ShariqueH">TryHackMe</a> •
   <a href="https://www.behance.net/sharique_haroon">Behance</a>
 </p>
 
