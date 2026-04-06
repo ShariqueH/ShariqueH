@@ -12,7 +12,7 @@
 ## About Me
 
 - 🎓 Master's student in Data Science based in Berlin
-- 📊 Focused on data engineering, machine learning, and real-world problem solving
+- 📊 Interested in data engineering, machine learning, and real-world problem solving
 - 🛠 Working with Python, SQL, Excel, Tableau, Power BI, AWS and data pipelines
 - 🚗 Strong interest in automotive data, product thinking, and scalable data applications
 - 🌱 Currently sharpening my skills through hands-on projects in ML, and engineering
