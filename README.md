@@ -22,4 +22,4 @@ A Python ETL pipeline and Streamlit coaching dashboard built on a 50-lap Assetto
 * **Operational ML:** 96,000-record shipment delay risk classifier and component failure-risk modeling.
 * **AI Systems:** Multi-agent RAG copilot for operational decision support.
 
-📍 Berlin, Germany | [LinkedIn](https://www.linkedin.com/in/sharique-haroon/) | [Tableau Public](https://public.tableau.com/app/profile/sharique.haroon/vizzes)
+📍 Berlin, Germany | [LinkedIn](https://www.linkedin.com/in/sharique-haroon/) |
